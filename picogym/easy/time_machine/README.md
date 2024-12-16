@@ -1,0 +1,6 @@
+## Solution
+
+
+```
+git log
+```
